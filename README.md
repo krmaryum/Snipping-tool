@@ -196,6 +196,7 @@ This is useful when you want to record:
 11. Preview the recording.
 12. Click **Save** and choose a folder.
 
+
 <video src="videos/snipping-tool.mp4" controls width="900"></video>
 
 
