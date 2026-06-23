@@ -200,6 +200,8 @@ https://youtu.be/2h4izDf2IsU
 
 <video src="videos/snipping-tool.mp4" controls width="900"></video>
 
+<video src="videos/DOP_snipping-tool_W_.h264" controls width="900"></video>
+
 
 ### Important Tips
 
